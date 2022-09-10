@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi there, I'm  Uzair Ahmad 👋👋 </h1>
+<h1 align="center"> Hi there, I'm  Ali Ahmad 👋👋 </h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fira&color=%2322C0F7&size=22&center=true&vCenter=true&lines=Always+Learning+new+things;Self-taught++programmer;Student!!!"></a>
 </p>
@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 <br />
 
 <a href="https://github.com/69Ali">
-<img src="https://github-readme-stats.vercel.app/api?username=uzair657&show_icons=true&title_color=FF2E63&icon_color=bb2acf&text_color=57D1C9&bg_color=151515" align="left" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api?username=69Ali&show_icons=true&title_color=FF2E63&icon_color=bb2acf&text_color=57D1C9&bg_color=151515" align="left" width="450"/>
 </a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzair657&layout=compact&&title_color=FF2E63&text_color=57D1C9&bg_color=151515)](https://github.com/uzair657)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzair657&layout=compact&&title_color=FF2E63&text_color=57D1C9&bg_color=151515)](https://github.com/69Ali)
 
 <br />
 <br />
