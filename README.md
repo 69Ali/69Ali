@@ -1,10 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center"> Hi there, I'm  Ali Ahmad 👋👋 </h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fira&color=%2322C0F7&size=22&center=true&vCenter=true&lines=Always+Learning+new+things;Self-taught++programmer;Student!!!"></a>
 </p>
 <div align="center">
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 
   <br/>
